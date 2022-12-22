@@ -2,7 +2,7 @@
 
 Uma calculadora usando o Framework *Kivy*, tentei adicionar o arquivo para Android aqui, mas ele passou dos 25 MB, então vou mostrar aqui o passo a passo para que você possa fazer isso no seu computador e ainda treinar um pouco a usar o Kivy, basta você clonar o código para seu editor favorito e digitar os seguintes comando no terminal.
 
-# Se você não quiser ter o **prazer** de transformar o arquivo para Android você mesmo, vou deixar o link do [Google Drive](https://drive.google.com/file/d/1gdXdRKWNmyNxq2S3683MU_UuCiU9Oavk/view?usp=sharing) para você baixar o arquivo direto para o seu celular e testar a calculadora.
+## Se você não quiser ter o **prazer** de transformar o arquivo para Android você mesmo, vou deixar o link do [Google Drive](https://drive.google.com/file/d/1gdXdRKWNmyNxq2S3683MU_UuCiU9Oavk/view?usp=sharing) para você baixar o arquivo direto para o seu celular e testar a calculadora.
 
 ### instalar o pacote chamado buildozer com o pip:
 $ pip install buildozer
