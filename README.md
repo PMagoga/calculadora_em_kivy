@@ -4,6 +4,10 @@ Uma calculadora usando o Framework *Kivy*, tentei adicionar o arquivo para Andro
 
 ## Se você não quiser ter o *prazer* de transformar o arquivo para Android você mesmo, vou deixar o link do [Google Drive](https://drive.google.com/file/d/1gdXdRKWNmyNxq2S3683MU_UuCiU9Oavk/view?usp=sharing) para você baixar o arquivo direto para o seu celular e testar a calculadora.
 
+### Tenho certeza que você é desenvolvedor raiz e optou por transformar o arquivo você mesmo:
+
+Então vamos lá, para transformar para um arquivo executável e instalar no seu Android vamos lá:
+
 ### instalar o pacote chamado buildozer com o pip:
 $ pip install buildozer
 
