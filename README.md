@@ -14,7 +14,7 @@ vai criar um chamado buildozer.spec, após isso, verifique se todas as dependên
 
 ahhhh pera, antes de digitar o comando abaixo, esqueci de dizer, é imprescindível que você renomeie ou crie uma cópia do seu arquivo com o código, e de a ele o nome de **main.py**, senão o buildozer não vai funcionar.
 
-###Agora sim, tudo pronto, digite o seguinte comando:
+### Agora sim, tudo pronto, digite o seguinte comando:
 $ buildozer -v android debug
 
 essa etapa leva muito tempo! Sério, muito tempo mesmo, claro eu to levando em consideração a minha máquina que é bem fraquinha, levou uns 25 minutos, talvez na sua demore bem menos, tipo uns 22 minutos.
